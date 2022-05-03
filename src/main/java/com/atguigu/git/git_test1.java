@@ -6,13 +6,12 @@ public class git_test1 {
         System.out.println("git-test1");
         System.out.println("git-test2");
         System.out.println("git-test3");
-        System.out.println("git-test3");
         System.out.println("git-test4");
         System.out.println("git-test5");
-        System.out.println("git-master_test");
-
         System.out.println("git-branch_1_test");
         System.out.println("git-branch_1_test1");
+        System.out.println("git-branch_1_test1");
+
     }
 
 
